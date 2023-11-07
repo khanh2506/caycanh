@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Thủ tục thanh toán';$_['text_cart'] = 'Giỏ hàng';

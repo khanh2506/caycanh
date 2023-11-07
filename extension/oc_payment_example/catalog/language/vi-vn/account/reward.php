@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Điểm thưởng của bạn';$_['column_date_added'] = 'Ngày thêm';$_['column_description'] = 'Sự mô tả';$_['column_points'] = 'Điểm';$_['text_account'] = 'Tài khoản';$_['text_reward'] = 'Điểm thưởng';$_['text_total'] = 'Tổng số điểm thưởng của bạn là:';$_['text_no_results'] = 'Bạn không có bất kỳ điểm thưởng nào!';

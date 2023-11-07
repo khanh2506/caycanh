@@ -1,0 +1,1 @@
+<?php$_['text_category'] = 'Thể loại';$_['text_all'] = 'Hiển thị tất cả';

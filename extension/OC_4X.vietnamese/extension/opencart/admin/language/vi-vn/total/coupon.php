@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Phiếu mua hàng';$_['text_extension'] = 'Tiện ích mở rộng';$_['text_success'] = 'Thành công: Bạn đã sửa đổi tổng số phiếu giảm giá!';$_['text_edit'] = 'Chỉnh sửa phiếu giảm giá';$_['entry_status'] = 'Trạng thái';$_['entry_sort_order'] = 'Thứ tự sắp xếp';$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi tổng số phiếu giảm giá!';

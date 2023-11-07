@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Tổng cộng';$_['text_extension'] = 'Tiện ích mở rộng';$_['text_success'] = 'Thành công: Bạn đã sửa đổi tổng số tổng!';$_['text_edit'] = 'Chỉnh sửa Tổng cộng Tổng cộng';$_['entry_status'] = 'Trạng thái';$_['entry_sort_order'] = 'Thứ tự sắp xếp';$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi tổng tổng!';

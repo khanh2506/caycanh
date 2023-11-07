@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Khởi động';$_['text_success'] = 'Thành công: Bạn đã sửa đổi phần khởi động!';$_['text_list'] = 'Danh sách khởi động';$_['column_code'] = 'Mã khởi động';$_['column_sort_order'] = 'Thứ tự sắp xếp';$_['column_action'] = 'Hoạt động';$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi khởi động!';

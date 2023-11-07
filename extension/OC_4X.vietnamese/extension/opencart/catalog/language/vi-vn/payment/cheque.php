@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Séc / Lệnh chuyển tiền';$_['text_instruction'] = 'Hướng dẫn về Séc / Lệnh chuyển tiền';$_['text_payable'] = 'Làm thanh toán cho:';$_['text_address'] = 'Gửi đến:';$_['text_payment'] = 'Đơn đặt hàng của bạn sẽ không được giao cho đến khi chúng tôi nhận được thanh toán.';

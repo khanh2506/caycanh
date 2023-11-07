@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Giao dịch của bạn';$_['column_date_added'] = 'Ngày thêm';$_['column_description'] = 'Sự mô tả';$_['column_amount'] = 'Số lượng (%s)';$_['text_account'] = 'Tài khoản';$_['text_transaction'] = 'Giao dịch của bạn';$_['text_total'] = 'Số dư hiện tại của bạn là:';$_['text_no_results'] = 'Bạn không có bất kỳ giao dịch nào!';

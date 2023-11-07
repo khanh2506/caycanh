@@ -1,0 +1,1 @@
+<?php$_['text_subject'] = '%s - Gọi món %s';$_['text_received'] = 'Bạn đã nhận được một đơn đặt hàng.';$_['text_order_id'] = 'ID đặt hàng:';$_['text_date_added'] = 'Ngày thêm:';$_['text_order_status'] = 'Tình trạng đặt hàng:';$_['text_product'] = 'Các sản phẩm:';$_['text_total'] = 'Tổng số:';$_['text_comment'] = 'Các nhận xét cho đơn đặt hàng của bạn là:';

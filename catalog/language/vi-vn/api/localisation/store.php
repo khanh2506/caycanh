@@ -1,0 +1,1 @@
+<?php$_['text_success'] = 'Thành công: Cửa hàng đã được thay đổi!';$_['error_store'] = 'Cảnh báo: Không thể tìm thấy cửa hàng!';

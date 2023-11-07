@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Tinh chỉnh Tìm kiếm';

@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Đăng xuất tài khoản';$_['text_message'] = '<p> Bạn đã đăng xuất khỏi tài khoản của mình. Giờ đây, bạn có thể yên tâm rời khỏi máy tính. </p> <p> Giỏ hàng của bạn đã được lưu, các mặt hàng bên trong sẽ được khôi phục bất cứ khi nào bạn đăng nhập lại vào tài khoản của mình. </p>';$_['text_account'] = 'Tài khoản';$_['text_logout'] = 'Đăng xuất';

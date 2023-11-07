@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'bảng điều khiển';

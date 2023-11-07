@@ -1,0 +1,1 @@
+<?php$_['text_recommended'] = 'Khuyến khích';$_['text_install'] = 'Cài đặt';$_['text_uninstall'] = 'Gỡ cài đặt';$_['text_delete'] = 'Xóa bỏ';

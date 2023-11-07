@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Thông tin';$_['text_extension'] = 'Tiện ích mở rộng';$_['text_success'] = 'Thành công: Bạn đã sửa đổi mô-đun thông tin!';$_['text_edit'] = 'Chỉnh sửa mô-đun thông tin';$_['entry_status'] = 'Trạng thái';$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi mô-đun thông tin!';

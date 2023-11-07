@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Cửa hàng';$_['text_extension'] = 'Tiện ích mở rộng';$_['text_success'] = 'Thành công: Bạn đã sửa đổi mô-đun cửa hàng!';$_['text_edit'] = 'Chỉnh sửa mô-đun cửa hàng';$_['entry_admin'] = 'Chỉ người dùng quản trị viên';$_['entry_status'] = 'Trạng thái';$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi mô-đun cửa hàng!';

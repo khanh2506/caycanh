@@ -1,0 +1,1 @@
+<?php$_['text_success'] = 'Thành công: Giảm giá phiếu thưởng của bạn đã được áp dụng!';$_['text_remove'] = 'Thành công: Giảm giá phiếu thưởng của bạn đã bị xóa!';$_['error_coupon'] = 'Cảnh báo: Phiếu thưởng không hợp lệ, đã hết hạn hoặc đã đạt đến giới hạn sử dụng!';

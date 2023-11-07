@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Mỗi mặt hàng';$_['text_description'] = 'Tỷ lệ vận chuyển trên mỗi mặt hàng';

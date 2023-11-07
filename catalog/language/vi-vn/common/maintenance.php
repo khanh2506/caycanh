@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Sự bảo trì';$_['text_maintenance'] = 'Sự bảo trì';$_['text_message'] = '<h1 style = "text-align: center;"> Chúng tôi hiện đang thực hiện một số hoạt động bảo trì theo lịch trình. <br/> Chúng tôi sẽ trở lại trong thời gian sớm nhất. Vui lòng kiểm tra lại sớm. </h1>';

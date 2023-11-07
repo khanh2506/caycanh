@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Đón';$_['text_description'] = 'Nhận từ cửa hàng';

@@ -1,0 +1,1 @@
+<?php$_['text_footer'] = '<a href="https://www.opencart.com"> OpenCart </a> © 2009-2022 Mọi quyền được bảo lưu.';$_['text_version'] = 'Phiên bản %s';

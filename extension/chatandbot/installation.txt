@@ -1,0 +1,20 @@
+## Live chat and ChatBot - ChatAndBot for Opencart 4.x.x
+
+
+## Install the extension
+
+INSTALLATION
+
+1.Create your account on the chatandbot.com website and copy the plugin id.
+2. Download the extension file.
+3. Go to your OpenCart Administration panel and open the extensions > installer. 
+4. Upload chatandbot.ocmod.zip (You downloaded this file in the second step). 
+5. Click install button.
+6. Go to Extensions>Modules.
+7. Find "Live Chat and ChatBot - ChatAndBot" from the module list and click "Install".
+8. After installation, click "Edit".
+9. In the Plugin ID field, paste the value which you have copied in the first step. Set the status field to Enabled and click Save.
+10. Select Content Bottom and add our module there. Then click Save.
+11. That's it. Live chat has been added to the page.
+
+

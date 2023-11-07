@@ -1,0 +1,1 @@
+<?php$_['text_subject'] = '%s - Cập nhật trở lại %s';$_['text_return_id'] = 'ID trả lại:';$_['text_date_added'] = 'Ngày trở lại:';$_['text_return_status'] = 'Trả lại của bạn đã được cập nhật thành trạng thái sau:';$_['text_comment'] = 'Các ý kiến ​​cho sự trở lại của bạn là:';$_['text_footer'] = 'Vui lòng trả lời email này nếu bạn có bất kỳ câu hỏi nào.';

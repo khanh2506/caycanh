@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Thông báo';$_['text_success'] = 'Thành công: Bạn đã sửa đổi thông báo!';$_['text_list'] = 'Danh sách thông báo';$_['column_message'] = 'Thông điệp';$_['column_action'] = 'Hoạt động';$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi thông báo!';

@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'GDPR thành công';$_['text_account'] = 'Tài khoản';$_['text_export'] = 'Yêu cầu xuất dữ liệu tài khoản của bạn đã được nhận.';$_['text_remove'] = 'Yêu cầu xóa tài khoản GDPR sẽ được xử lý sau <strong> %s ngày </strong> để có thể xử lý mọi khoản bồi hoàn, hoàn phí hoặc phát hiện gian lận.';

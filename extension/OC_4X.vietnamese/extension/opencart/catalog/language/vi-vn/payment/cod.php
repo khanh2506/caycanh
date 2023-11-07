@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Thanh toán khi giao hàng';$_['error_order_id'] = 'Không có ID đặt hàng trong phiên!';$_['error_payment_method'] = 'Phương thức thanh toán không chính xác!';

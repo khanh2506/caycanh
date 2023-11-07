@@ -1,0 +1,1 @@
+<?php$_['error_language'] = 'Cảnh báo: Không thể tìm thấy ngôn ngữ!';

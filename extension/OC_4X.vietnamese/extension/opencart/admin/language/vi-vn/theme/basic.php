@@ -1,0 +1,1 @@
+<?php$_['heading_title'] = 'Chủ đề cửa hàng mặc định';$_['text_extension'] = 'Tiện ích mở rộng';$_['text_success'] = 'Thành công: Bạn đã sửa đổi chủ đề cửa hàng mặc định!';$_['text_edit'] = 'Chỉnh sửa chủ đề cửa hàng mặc định';$_['entry_status'] = 'Trạng thái';$_['error_permission'] = 'Cảnh báo: Bạn không có quyền sửa đổi chủ đề cửa hàng mặc định!';

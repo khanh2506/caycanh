@@ -1,0 +1,1 @@
+<?php$_['text_price'] = 'Giá bán:';$_['text_tax'] = 'Trước thuế:';

@@ -1,0 +1,1 @@
+<?php$_['text_subject'] = '%s - Yêu cầu đặt lại mật khẩu';$_['text_greeting'] = 'Mật khẩu mới đã được yêu cầu cho tài khoản khách hàng %s.';$_['text_change'] = 'Để đặt lại mật khẩu của bạn, hãy nhấp vào liên kết bên dưới:';$_['text_ip'] = 'IP được sử dụng để thực hiện yêu cầu này là:';$_['button_reset'] = 'Đặt lại mật khẩu';

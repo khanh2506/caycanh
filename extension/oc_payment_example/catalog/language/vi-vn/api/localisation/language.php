@@ -1,0 +1,1 @@
+<?php$_['text_success'] = 'Thành công: Ngôn ngữ của bạn đã được thay đổi!';$_['error_language'] = 'Cảnh báo: Không thể tìm thấy ngôn ngữ!';
